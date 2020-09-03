@@ -2,7 +2,7 @@
 
 This is the solution to the second exercise of the C# crash course.
 
-I have added some comments in the code to explain the algorithms, and there is also links to Wikipedia pages for most parts related to the problem solution. 
+I have added some comments in the code to explain the algorithms, and links to Wikipedia pages for most parts related to the problem solution. 
 
 I also included unit testing to this problem. Primary because when working with problems like this, where you have input that is mapped to specific output, testing is very helpful. 
 You can work your way through the solution by defining your expectations and the find solutions. This way of working leads to a methodology calls Test-Driven Development (TDD). 
